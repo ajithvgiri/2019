@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFF</color>
+    <item name="custom_cell" type="id"/>
+    <item name="date_text" type="id"/>
+    <item name="day" type="id"/>
+    <item name="item_click_support" type="id"/>
+</resources>

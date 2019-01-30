@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/januprasad/projects/2019/lib/src/main/AndroidManifest.xml:1:1-4:12
+INJECTED from /home/januprasad/projects/2019/lib/src/main/AndroidManifest.xml:1:1-4:12
+INJECTED from /home/januprasad/projects/2019/lib/src/main/AndroidManifest.xml:1:1-4:12
+INJECTED from /home/januprasad/projects/2019/lib/src/main/AndroidManifest.xml:1:1-4:12
+INJECTED from /home/januprasad/projects/2019/lib/src/main/AndroidManifest.xml:1:1-4:12
+INJECTED from /home/januprasad/projects/2019/lib/src/main/AndroidManifest.xml:1:1-4:12
+INJECTED from /home/januprasad/projects/2019/lib/src/main/AndroidManifest.xml:1:1-4:12
+	package
+		ADDED from /home/januprasad/projects/2019/lib/src/main/AndroidManifest.xml:1:70-127
+		INJECTED from /home/januprasad/projects/2019/lib/src/main/AndroidManifest.xml
+		INJECTED from /home/januprasad/projects/2019/lib/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/januprasad/projects/2019/lib/src/main/AndroidManifest.xml
+		ADDED from /home/januprasad/projects/2019/lib/src/main/AndroidManifest.xml:1:1-4:12
+		INJECTED from /home/januprasad/projects/2019/lib/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/januprasad/projects/2019/lib/src/main/AndroidManifest.xml
+		ADDED from /home/januprasad/projects/2019/lib/src/main/AndroidManifest.xml:1:1-4:12
+		INJECTED from /home/januprasad/projects/2019/lib/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/januprasad/projects/2019/lib/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /home/januprasad/projects/2019/lib/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/januprasad/projects/2019/lib/src/main/AndroidManifest.xml
+INJECTED from /home/januprasad/projects/2019/lib/src/main/AndroidManifest.xml
+INJECTED from /home/januprasad/projects/2019/lib/src/main/AndroidManifest.xml
+INJECTED from /home/januprasad/projects/2019/lib/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/januprasad/projects/2019/lib/src/main/AndroidManifest.xml
+		ADDED from /home/januprasad/projects/2019/lib/src/main/AndroidManifest.xml
+		INJECTED from /home/januprasad/projects/2019/lib/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/januprasad/projects/2019/lib/src/main/AndroidManifest.xml
+		ADDED from /home/januprasad/projects/2019/lib/src/main/AndroidManifest.xml
+		INJECTED from /home/januprasad/projects/2019/lib/src/main/AndroidManifest.xml
